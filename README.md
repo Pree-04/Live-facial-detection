@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Image-Transformation
 Applying Geometrical Transformations On An Image.
 This project demonstrates various geometrical transformations applied to images using OpenCV, Matplotlib, and NumPy libraries. The transformations covered include translation, scaling, rotation, and converting grayscale images to color.
@@ -22,4 +21,4 @@ To run this project, you need to have the following libraries installed. You can
 =======
 # Live-facial-detection
 Facial detection through live webcam feed using Open CV.
->>>>>>> origin/main
+
